@@ -30,7 +30,7 @@ Benjamin is a custom Discord bot designed to automate tile tracking and score ma
 
 3.  **Run the Bot:**
     ```bash
-    python benjamin_bot.py
+    python main.py
     ```
 
 ---
